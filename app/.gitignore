@@ -1,0 +1,8 @@
+/build
+/.cxx/
+/build/
+/libs/VINS-Mobile-master/VINS_ios/ObjectiveC/
+/libs/VINS-Mobile-master/VINS_ThirdPartyLib/boost_1_63_0/
+/libs/VINS-Mobile-master/VINS_ThirdPartyLib/ceres-solver/
+/libs/VINS-Mobile-master/VINS_ThirdPartyLib/eigen3/
+/libs/VINS-Mobile-master/VINS_ThirdPartyLib/opencv-4.5.0-android-sdk/OpenCV-android-sdk/
